@@ -6,7 +6,7 @@ The application allows users to record their income and expenses, monitor their 
 
 
 ## 🔗 Live Demo
-https://tanvi-jpeg.github.io/expense-tracker/
+https://tanvi-jpeg.github.io/Expense-Tracker/
 
 ## ✨ Features
 
@@ -108,16 +108,8 @@ The application adapts to different screen sizes:
 * 📟 Tablet
 
 ## 📸 Screenshots
+<img width="1687" height="865" alt="image" src="https://github.com/user-attachments/assets/029221ea-5a11-411e-a42b-9de58f745816" />
 
-Add screenshots of your application here.
-
-```html
-<img width="815" height="676" alt="Expense Tracker Screenshot" src="YOUR_SCREENSHOT_URL">
-```
-
-## 🌐 Live Demo
-
-🔗 **Live Demo:** Add your Vercel deployment link here.
 
 ## 🎯 CODSOFT Task 3
 
